@@ -1,2 +1,3 @@
 # joystick
-this is a  Logisim implementation of a joystick 
+ I have created **joystick** in the **logisim.**
+ 
